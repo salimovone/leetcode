@@ -2,3 +2,5 @@
 *.exe
 *.vs
 *.vscode
+/8.string_to_int/x64/Debug
+/x64/Debug
