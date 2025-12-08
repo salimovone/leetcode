@@ -10,7 +10,6 @@ int reverse(int x) {
   if (x == -1463847412)
     return -2147483641;
   int isStrictMode = (x / 1000000000 >= 1 || x / 1000000000 <= -1);
-  printf("isStrictMode: %d\n", isStrictMode);
   int isNegative = x < 0;
   int res = 0;
   if (isNegative) {
