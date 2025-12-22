@@ -7,5 +7,6 @@
   <Project Path="14.longestCommonPrefix/14.longestCommonPrefix.vcxproj" Id="e556cd81-56a3-4d01-b19b-4c4c392d9ff5" />
   <Project Path="26.removeDuplicatesFromSortedArray/26.removeDuplicatesFromSortedArray.vcxproj" Id="a067f07a-6665-4f70-af33-92dd3cf3f98b" />
   <Project Path="27.RemoveElement/27.RemoveElement.vcxproj" Id="c191e383-5043-467a-b144-576ec14d9474" />
+  <Project Path="35.SearchInsertPosition/35.SearchInsertPosition.vcxproj" Id="772d5afc-3fb6-4ecd-b710-ae6f63aa0236" />
   <Project Path="8.string_to_int/8.string_to_int.vcxproj" Id="403d983a-4898-4587-8e3d-90869f59c353" />
 </Solution>
