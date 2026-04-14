@@ -1,5 +1,6 @@
 *.out
 *.exe
+*.pdb
 *.vs
 *.vscode
 /*/x64/Debug
